@@ -1,10 +1,10 @@
 # Hi 👋, I'm Danyssa Tamayo  
 A designer-developer passionate about creating meaningful experiences through tech, design, and storytelling.
 
-🎓 I'm currently a student diving deep into web technologies, and machine learning.
-📷 Outside of code, you’ll find me on a photowalk with my film camera
+** 🎓 I'm currently a student diving deep into web technologies, and machine learning.
+** 📷 Outside of code, you’ll find me on a photowalk with my film camera
 
----
+--
 
 ## 🧠 What I Enjoy
 
@@ -12,7 +12,7 @@ A designer-developer passionate about creating meaningful experiences through te
 - Capturing stories through photography
 - Learning through building — always prototyping something new  
 
----
+--
 
 ## 📫 How to reach me
 
@@ -22,7 +22,7 @@ A designer-developer passionate about creating meaningful experiences through te
   </a>
 </p>
 
----
+--
 
 ## 🤝 Connect with Me
 
@@ -35,4 +35,4 @@ A designer-developer passionate about creating meaningful experiences through te
   </a>
 </p>
 
----
+--
