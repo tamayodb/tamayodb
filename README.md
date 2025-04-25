@@ -4,7 +4,6 @@ A designer-developer passionate about creating meaningful experiences through te
 ** 🎓 I'm currently a student diving deep into web technologies, and machine learning.
 ** 📷 Outside of code, you’ll find me on a photowalk with my film camera
 
---
 
 ## 🧠 What I Enjoy
 
@@ -12,7 +11,6 @@ A designer-developer passionate about creating meaningful experiences through te
 - Capturing stories through photography
 - Learning through building — always prototyping something new  
 
---
 
 ## 📫 How to reach me
 
@@ -21,8 +19,6 @@ A designer-developer passionate about creating meaningful experiences through te
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
-
---
 
 ## 🤝 Connect with Me
 
@@ -34,5 +30,3 @@ A designer-developer passionate about creating meaningful experiences through te
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
-
---
