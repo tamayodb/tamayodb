@@ -1,7 +1,7 @@
 # Hi 👋, I'm Danyssa Tamayo  
 A designer-developer passionate about creating meaningful experiences through tech, design, and storytelling.
 
-👨‍💻 A Bit About Me
+## 👨‍💻 A Bit About Me
 - 🎓 I'm currently a student diving deep into web technologies and machine learning  
 - 📷 Outside of code, you’ll find me on a photowalk with my film camera
 
@@ -12,14 +12,9 @@ A designer-developer passionate about creating meaningful experiences through te
 - Capturing stories through photography
 - Learning through building — always prototyping something new  
 
-
 ## 📫 How to reach me
 
-<p align="left">
-  <a href="mailto:tdanyssaaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
+📧 [tdanyssaaa@gmail.com](mailto:tdanyssaaa@gmail.com)
 
 ## 🤝 Connect with Me
 
