@@ -1,4 +1,4 @@
-```bash
+bash
 $ danyssafetch
 
 <div align="center">
