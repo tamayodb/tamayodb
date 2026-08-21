@@ -1,30 +1,38 @@
-bash
-$ danyssafetch
-
 <div align="center">
 
-```
+```text
          ████████████          danyssa@tamayodb
        ██            ██        ───────────────────────────────
      ██  ██      ██  ██        OS: Manila, Philippines
-    ██    ██    ██    ██       Host: National University-Manila (Alumni)
-   ██      ██████      ██      Degree: BS Computer Science - Machine Learning
-  ██   ██          ██   ██     Uptime: Fresh Graduate 🎓
-  ██   ██  💼 SQA  ██   ██     Shell: zsh (Terminal)
-   ██      Intern      ██      DE: IBM Carbon Design System
-    ██    SM Retail   ██       WM: VS Code / Figma
-     ██  Inc. 2026   ██        Theme: Dark (IBM Plex)
-       ██            ██        Font: IBM Plex Mono
-         ████████████          
+    ██    ██    ██    ██       Host: National University-Manila
+   ██      ██████      ██      Degree: BS Computer Science
+  ██   ██          ██   ██     Specialization: Machine Learning
+  ██   ██  SQA QA  ██   ██     Role: Software QA / Developer
+   ██      Intern      ██      Focus: QA · Web · ML · UX/UI
+    ██                ██       Status: Open to opportunities
+     ██              ██
+       ██            ██
+         ████████████
 ```
 
-### Danyssa Tamayo
-*Creating meaningful, high-quality experiences through the intersection of tech, design, and storytelling.*
+# `danyssafetch`
 
-[![Email](https://img.shields.io/badge/Email-tdanyssaaa%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:tdanyssaaa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danyssa--tamayo-5970a4280?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/danyssa-tamayo](https://www.linkedin.com/in/danyssa-tamayo-5970a4280))
-[![GitHub](https://img.shields.io/badge/GitHub-tamayodb-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/tamayodb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-tamayodb.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://tamayodb.vercel.app/)
+*Creating meaningful, high-quality experiences through technology, design, and storytelling.*
+
+<p>
+  <a href="mailto:tdanyssaaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tdanyssaaa%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/danyssa-tamayo-5970a4280">
+    <img src="https://img.shields.io/badge/LinkedIn-danyssa--tamayo-000000?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tamayodb">
+    <img src="https://img.shields.io/badge/GitHub-tamayodb-000000?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://tamayodb.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-tamayodb.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -32,118 +40,107 @@ $ danyssafetch
 
 ## `$ whoami`
 
+```text
+> Computer Science graduate specializing in Machine Learning
+> Software QA & Web Development
+> Interested in building reliable and intuitive digital experiences
 ```
-> SQA Intern @ SM Retail Inc. (March 2026 - Present)
-> BS Computer Science - Machine Learning, National University-Manila
-> Focus: Web Technologies, ML, UX/UI Design, Software QA, Film Photography
-> Status: 🟢 Open to full-time opportunities
-```
+
+---
 
 ## `$ cat experience.log`
 
-```
-[2026] SQA Intern @ SM Retail Inc.
-       ├─ Software Quality Assurance & Testing
+```text
+[2026] Software Quality Assurance Intern @ SM Retail Inc.
+       ├─ Functional & Regression Testing
        ├─ Test Case Development & Execution
-       └─ Bug Reporting, Defect Management, Defect Triage
-
-[2026] Graduated: BS Computer Science (Machine Learning)
-       ├─ National University-Manila
-       ├─ Focus: Machine Learning & Web Technologies
-       └─ Capstone: [An Explainable Clustering Framework for Post-Tropical Cyclone Impact Profiling in the Philippines: A Comparative Analysis of Optimized Algorithms]((https://doi.org/10.1145/3803291.3803346))
-
-[Ongoing] Community Contributor
-          ├─ Python PH Core Volunteer 🐍
-          ├─ Google Cloud Developer Manila Core Volunteer ☁️
-          └─ Active Tech Community Contributor 🤝
+       ├─ API Testing
+       ├─ Test Automation
+       ├─ Performance Testing
+       └─ Defect Reporting & Triage
 ```
 
-## `$ ./skills.sh --languages`
+**Testing:** `Playwright` `Postman` `JMeter` `Mantis Bug Tracker`
+**Reporting:** `Power BI`
 
+---
+
+## `$ ./skills.sh`
+
+```text
+Languages
+  Python · JavaScript · HTML/CSS · SQL · Java
+
+Frontend
+  React · Next.js · Tailwind CSS
+
+Backend
+  Node.js · Express · Django
+
+Machine Learning
+  TensorFlow · Scikit-Learn · Pandas · XGBoost · SHAP · Optuna
+
+Tools
+  Figma · Git · GitHub · Docker · VS Code
 ```
-Python
-JavaScript
-HTML/CSS
-SQL
-Java
+
+---
+
+## `$ ls projects/`
+
+```text
+tinker-scheduler/
+└─ Teacher scheduling and appointment management system
+   React · Vite · Tailwind CSS · Node.js · Express · MongoDB
+
+cyclone-impact-profiling/
+└─ Explainable clustering framework for tropical cyclone impacts
+   Python · Scikit-Learn · XGBoost · SHAP · Optuna
 ```
 
-## `$ ./skills.sh --stack`
+**Tinker Scheduler**
+[github.com/tamayodb/tinker-scheduler](https://github.com/tamayodb/tinker-scheduler)
 
-<table>
-<tr>
-<td valign="top" width="33%">
+**Tropical Cyclone Impact Profiling**
+[Published Research](https://doi.org/10.1145/3803291.3803346) · **Best Presenter — ICICT 2026**
 
-**Frontend**
-- React
-- Next.js
-- Tailwind CSS
+---
 
-</td>
-<td valign="top" width="33%">
+## `$ cat community.log`
 
-**Backend**
-- Node.js
-- Express
-- Django
+```text
+Python PH
+└─ Core Volunteer
 
-</td>
-<td valign="top" width="33%">
+Google Cloud Developer Community Manila
+└─ Core Volunteer
 
-**ML / AI**
-- TensorFlow
-- Scikit-Learn
-- Pandas
+Tech Community
+└─ Event & Logistics Contributor
+```
 
-</td>
-</tr>
-</table>
-
-## `$ ./tools.sh --list`
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Design**
-- Figma
-
-</td>
-<td valign="top" width="33%">
-
-**Development**
-- VS Code
-- Git / GitHub
-- Docker
-
-</td>
-<td valign="top" width="33%">
-
-**Testing**
-- Playwright
-- JMeter
-- Postman
-
-</td>
-</tr>
-</table>
+---
 
 ## `$ ./contact.sh`
 
 ```bash
 #!/bin/bash
-echo "📧 Email:    tdanyssaaa@gmail.com"
-echo "🔗 LinkedIn: linkedin.com/in/danyssa-tamayo-5970a4280"
-echo "🐙 GitHub:   github.com/tamayodb"
-echo "📍 Location: Manila, Philippines"
-echo "🕐 Timezone: UTC+8 (Philippine Standard Time)"
-echo "🟢 Status:   Open to full-time opportunities"
+
+echo "Email:     tdanyssaaa@gmail.com"
+echo "LinkedIn:  linkedin.com/in/danyssa-tamayo-5970a4280"
+echo "GitHub:    github.com/tamayodb"
+echo "Portfolio: tamayodb.vercel.app"
 ```
 
 ---
 
 <div align="center">
 
- Manila, PH 🇵🇭
+```text
+────────────────────────────────────────────────────────────
+                    danyssa@tamayodb
+              "Always learning. Always building."
+────────────────────────────────────────────────────────────
+```
 
 </div>
