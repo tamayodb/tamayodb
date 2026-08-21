@@ -1,21 +1,20 @@
 <div align="center">
 
 ```text
-         ████████████          danyssa@tamayodb
-       ██            ██        ───────────────────────────────
-     ██  ██      ██  ██        OS: Manila, Philippines
-    ██    ██    ██    ██       Host: National University-Manila
-   ██      ██████      ██      Degree: BS Computer Science
-  ██   ██          ██   ██     Specialization: Machine Learning
-  ██   ██  SQA QA  ██   ██     Role: Software QA / Developer
-   ██      Intern      ██      Focus: QA · Web · ML · UX/UI
-    ██                ██       Status: Open to opportunities
-     ██              ██
-       ██            ██
-         ████████████
+          /\_____/\             danyssa@tamayodb
+         /  o   o  \            ───────────────────────────────
+        ( ==  ^  == )           OS: Manila, Philippines
+         )         (            Host: National University-Manila
+        (           )           Degree: BS Computer Science
+       ( (  )   (  ) )          Specialization: Machine Learning
+      (__(__)___(__)__)         Role: Software QA / Developer
+                                Focus: QA · Web · ML · UX/UI
+                                Status: Open to opportunities
 ```
 
-# `danyssafetch`
+```bash
+$ danyssafetch
+```
 
 *Creating meaningful, high-quality experiences through technology, design, and storytelling.*
 
