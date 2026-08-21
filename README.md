@@ -1,15 +1,15 @@
 <div align="center">
 
 ```
-          /\_____/\             danyssa@tamayodb
-         /  o   o  \            ───────────────────────────────
-        ( ==  ^  == )           OS: Manila, Philippines
-         )         (            Host: National University-Manila
-        (           )           Degree: BS Computer Science
-       ( (  )   (  ) )          Specialization: Machine Learning
-      (__(__)___(__)__)         Role: Software QA / Developer
-                                Focus: QA · Web · ML · UX/UI
-                                Status: Open to opportunities
+          /\                 danyssa@tamayodb
+         /  \                ───────────────────────────────
+        / /\ \               OS: Manila, Philippines
+       / /  \ \              Host: National University-Manila
+      (  \__/  )             Degree: BS Computer Science
+       \  /\  /              Specialization: Machine Learning
+        \____/               Role: Software QA / Developer
+       /|    |\              Focus: QA · Web · ML · UX/UI
+      (_|____|_)             Status: Open to opportunities
 ```
 
 ```bash
